@@ -1,0 +1,28 @@
+sources:
+
+Data Playground courses by Lars Heemskerk
+
+- Webscraping
+
+HU course in Week 3: Webscraping 
+-Scrape a single webpage (Video)
+-Scraping multiple webpages (Video)
+https://www.formula1.com/en/results.html
+https://www.studytonight.com/python/web-scraping/scraping-multiple-urls
+https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/
+https://statisticsglobe.com/rename-columns-of-pandas-dataframe-in-python
+https://wtf1.com/post/these-are-all-the-f1-team-changes-in-the-last-decade/
+https://pythonguides.com/pandas-replace-multiple-values/
+https://datascienceparichay.com/article/pandas-delete-rows-based-on-column-values/
+
+- Dashbord
+
+https://docs.streamlit.io/library
+https://www.codegrepper.com/code-examples/python/how+to+import+a+variable+from+another+python+file
+https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
+https://plotly.com/python/basic-charts/
+https://plotly.com/python/categorical-axes/
+https://share.streamlit.io/streamlit/example-app-interactive-table/main
+https://docs.streamlit.io/library/api-reference/layout/st.sidebar
+https://stackoverflow.com/questions/7391945/how-do-i-read-image-data-from-a-url-in-python
+
